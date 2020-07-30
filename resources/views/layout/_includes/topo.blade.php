@@ -22,8 +22,7 @@
          <li><a href="/">Home</a></li>
        </ul>
        <ul class="side-nav" id="mobile">
-         <li><a href="/">Home</a></li>
-         <li><a href="{{route('admin.clientes')}}">Cursos</a></li>
+         <li><a href="{{route('admin.clientes')}}">Home</a></li>
        </ul>
      </div>     
    </div>
